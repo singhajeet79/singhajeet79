@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Ajeet Singh ![Visitors](https://komarev.com/ghpvc/?username=singhajeet79&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
 
-### 🚀 MLOps Engineer | DevOps & Enterprise Data Background
+### 🚀 MLOps Engineer | DevOps & Enterprise DBA Background
 Turning experimental models into production-ready systems - AWS SageMaker, MLflow, Kubeflow, and cloud-native ML infrastructure.
 
 - 🔭 **Current Focus:** AWS SageMaker, MLflow, and Kubeflow
