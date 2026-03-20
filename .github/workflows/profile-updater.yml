@@ -3,7 +3,7 @@ name: Update Profile
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * SUN"
 
 jobs:
   update-readme:
