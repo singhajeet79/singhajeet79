@@ -22,7 +22,7 @@ Turning experimental models into production-ready systems - AWS SageMaker, MLflo
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>💾 Feature Store for DBAs</h4>
+      <h4>💾 Feature Store</h4>
       <p>Built a low-latency <b>Feature Store</b> using AWS Glue and Redis. Migrated legacy Oracle relational data into a versioned format suitable for real-time ML inference with <b>DVC</b>.</p>
       <p>
         <a href="https://github.com/singhajeet79/ml-feature-store"><b>View Repo</b></a> |
