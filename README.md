@@ -88,10 +88,10 @@ Turning experimental models into production-ready systems - AWS SageMaker, MLflo
 
 ### 🛠️ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/jaydeep283/k8s-jenkins-graddleApp/pull/1) in [jaydeep283/k8s-jenkins-graddleApp](https://github.com/jaydeep283/k8s-jenkins-graddleApp)
-2. 💪 Opened PR [#1](https://github.com/jaydeep283/k8s-jenkins-graddleApp/pull/1) in [jaydeep283/k8s-jenkins-graddleApp](https://github.com/jaydeep283/k8s-jenkins-graddleApp)
-3. ❗ Opened issue [#1](https://github.com/singhajeet79/sales_pipeline/issues/1) in [singhajeet79/sales_pipeline](https://github.com/singhajeet79/sales_pipeline)
-4. 🗣 Commented on [#1](https://github.com/singhajeet79/inventory-data-pipeline/issues/1#issuecomment-4062730572) in [singhajeet79/inventory-data-pipeline](https://github.com/singhajeet79/inventory-data-pipeline)
+1. ❌ Closed PR [#1](https://github.com/singhajeet79/food-price-sentinel-ml-pipeline/pull/1) in [singhajeet79/food-price-sentinel-ml-pipeline](https://github.com/singhajeet79/food-price-sentinel-ml-pipeline)
+2. 💪 Opened PR [#1](https://github.com/singhajeet79/food-price-sentinel-ml-pipeline/pull/1) in [singhajeet79/food-price-sentinel-ml-pipeline](https://github.com/singhajeet79/food-price-sentinel-ml-pipeline)
+3. ❌ Closed PR [#1](https://github.com/jaydeep283/k8s-jenkins-graddleApp/pull/1) in [jaydeep283/k8s-jenkins-graddleApp](https://github.com/jaydeep283/k8s-jenkins-graddleApp)
+4. 💪 Opened PR [#1](https://github.com/jaydeep283/k8s-jenkins-graddleApp/pull/1) in [jaydeep283/k8s-jenkins-graddleApp](https://github.com/jaydeep283/k8s-jenkins-graddleApp)
 5. 🔒 Closed issue [#1](https://github.com/singhajeet79/inventory-data-pipeline/issues/1) in [singhajeet79/inventory-data-pipeline](https://github.com/singhajeet79/inventory-data-pipeline)
 <!--END_SECTION:activity-->
 
