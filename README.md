@@ -81,6 +81,7 @@ Turning experimental models into production-ready systems - AWS SageMaker, MLflo
 ### ✍️ Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Python at Warp Speed: Why UV is the New Standard for AI/ML Development](https://medium.com/@ajeets_91456/python-at-warp-speed-why-uv-is-the-new-standard-for-ai-ml-development-0e85eff82927?source=rss-7a3904f9f2fa------2)
 - [Managed Fargate Service with AWS Batch for S3 Object Copying.](https://medium.com/@ajeets_91456/managed-fargate-service-with-aws-batch-for-s3-object-copying-bff74159e961?source=rss-7a3904f9f2fa------2)
 
 <!-- BLOG-POST-LIST:END -->
