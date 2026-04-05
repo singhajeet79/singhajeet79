@@ -88,11 +88,11 @@ Turning experimental models into production-ready systems - AWS SageMaker, MLflo
 
 ### 🛠️ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/singhajeet79/food-price-sentinel-ml-pipeline/pull/1) in [singhajeet79/food-price-sentinel-ml-pipeline](https://github.com/singhajeet79/food-price-sentinel-ml-pipeline)
-2. 💪 Opened PR [#1](https://github.com/singhajeet79/food-price-sentinel-ml-pipeline/pull/1) in [singhajeet79/food-price-sentinel-ml-pipeline](https://github.com/singhajeet79/food-price-sentinel-ml-pipeline)
-3. ❌ Closed PR [#1](https://github.com/jaydeep283/k8s-jenkins-graddleApp/pull/1) in [jaydeep283/k8s-jenkins-graddleApp](https://github.com/jaydeep283/k8s-jenkins-graddleApp)
-4. 💪 Opened PR [#1](https://github.com/jaydeep283/k8s-jenkins-graddleApp/pull/1) in [jaydeep283/k8s-jenkins-graddleApp](https://github.com/jaydeep283/k8s-jenkins-graddleApp)
-5. 🔒 Closed issue [#1](https://github.com/singhajeet79/inventory-data-pipeline/issues/1) in [singhajeet79/inventory-data-pipeline](https://github.com/singhajeet79/inventory-data-pipeline)
+1. 🔒 Closed issue [#1](https://github.com/premprakash-gupta/Campus-Placement/issues/1) in [premprakash-gupta/Campus-Placement](https://github.com/premprakash-gupta/Campus-Placement)
+2. 🎉 Merged PR [#3](https://github.com/premprakash-gupta/Campus-Placement/pull/3) in [premprakash-gupta/Campus-Placement](https://github.com/premprakash-gupta/Campus-Placement)
+3. 💪 Opened PR [#3](https://github.com/premprakash-gupta/Campus-Placement/pull/3) in [premprakash-gupta/Campus-Placement](https://github.com/premprakash-gupta/Campus-Placement)
+4. 🎉 Merged PR [#2](https://github.com/premprakash-gupta/Campus-Placement/pull/2) in [premprakash-gupta/Campus-Placement](https://github.com/premprakash-gupta/Campus-Placement)
+5. 💪 Opened PR [#2](https://github.com/premprakash-gupta/Campus-Placement/pull/2) in [premprakash-gupta/Campus-Placement](https://github.com/premprakash-gupta/Campus-Placement)
 <!--END_SECTION:activity-->
 
 ---
