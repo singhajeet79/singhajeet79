@@ -24,6 +24,7 @@
       <p>
         <a href="https://github.com/singhajeet79/food-price-sentinel-ml-pipeline"><b>View Repo</b></a> | 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Aiven-FF4C13?style=flat-square&logo=aiven&logoColor=white" />
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
       </p>
     </td>
