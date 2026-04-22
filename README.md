@@ -37,24 +37,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💾 Feature Store</h4>
-      <p>Built a low-latency <b>Feature Store</b> using AWS Glue and Redis. Migrated legacy Oracle relational data into a versioned format suitable for real-time ML inference with <b>DVC</b>.</p>
-      <p>
-        <a href="https://github.com/singhajeet79/ml-feature-store"><b>View Repo</b></a> |
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔄 Automated Model Retraining Loop</h4>
-      <p>A full <b>CI/CD/CT (Continuous Training)</b> pipeline. Uses GitHub Actions to trigger model retraining in <b>MLflow</b> when new data arrives, ensuring zero-downtime deployment via <b>ArgoCD</b>.</p>
-      <p>
-        <a href="https://github.com/singhajeet79/mlops-pipeline"><b>View Repo</b></a> |
-        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo-cd&logoColor=white" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
