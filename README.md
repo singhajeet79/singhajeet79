@@ -1,6 +1,6 @@
-# Ajeet Singh | MLOps Engineer ![Visitors](https://komarev.com/ghpvc/?username=singhajeet79&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
+# Ajeet Singh | DBA(Cloud & DevOps) ![Visitors](https://komarev.com/ghpvc/?username=singhajeet79&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
 
-### 🚀 MLOps | DevOps & Enterprise DBA Background
+### 🚀 MLOps Enthusiast | DevOps & Enterprise DBA Background
 > **12+ Years of Experience in Production Support, DevOps, and Database Engineering.**
 > *Specializing in Industrializing AI: Scaling LLMs and ML Pipelines from Sandbox to Production.*
 
