@@ -42,13 +42,14 @@
 
 [![Update Profile](https://github.com/singhajeet79/singhajeet79/actions/workflows/profile-updater.yml/badge.svg)](https://github.com/singhajeet79/singhajeet79/actions/workflows/profile-updater.yml) ![UV](https://img.shields.io/badge/Managed_by-uv-blueviolet)
 
-### 🛠️ Technical Stack: The MLOps Core
+### 🛠️ Technical Stack:
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sagemaker/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
 * **Infrastructure:** Kubernetes (EKS/Kind), Terraform, AWS, ArgoCD, Docker.
 * **Databases:** AWS Aurora, MongoDB, Oracle (RAC/Exadata), PeopleSoft, PostgreSQL, Redis/Valkey.
+* **Observability** Splunk, Dynatrace, Datadog DBM.
 
 ---
 
