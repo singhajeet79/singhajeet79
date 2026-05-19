@@ -1,8 +1,7 @@
-# Ajeet Singh | DBA(Cloud & DevOps) ![Visitors](https://komarev.com/ghpvc/?username=singhajeet79&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
+# Ajeet Singh | DBA (Cloud & DevOps) ![Visitors](https://komarev.com/ghpvc/?username=singhajeet79&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
 
 ### 🚀 MLOps Enthusiast | DevOps & Enterprise DBA Background
 > **12+ Years of Experience in Production Support, DevOps, and Database Engineering.**
-> *Specializing in Industrializing AI: Scaling LLMs and ML Pipelines from Sandbox to Production.*
 
 ---
 
@@ -49,15 +48,7 @@
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
 * **Infrastructure:** Kubernetes (EKS/Kind), Terraform, AWS, ArgoCD, Docker.
-* **MLOps:** Kafka, Aiven (PostgreSQL/Valkey), SageMaker, Ollama/Local LLM Benchmarking.
-* **Databases:** Oracle (RAC/Exadata), PeopleSoft, PostgreSQL, Redis/Valkey.
----
-
-### 📖 From DBA to MLOps:
-* **Infrastructure as Code:** Automating ML environments to eliminate "it works on my laptop" syndrome.
-* **Data Integrity:** Applying DBA-level rigor to **Feature Stores** and **Data Versioning (DVC)**.
-* **Observability:** Moving beyond system health to monitor **Model Drift** and **Performance Decay**.
-* **From DBA to MLOps:** Specialized in architecting high-throughput data bridges between Legacy RDBMS (Oracle/PeopleSoft) and modern ML Feature Stores.
+* **Databases:** AWS Aurora, MongoDB, Oracle (RAC/Exadata), PeopleSoft, PostgreSQL, Redis/Valkey.
 
 ---
 
